@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-firebase/static/css/main.270bf434.css",
+    "main.js": "/todo-firebase/static/js/main.be1b5a63.js",
+    "index.html": "/todo-firebase/index.html",
+    "main.270bf434.css.map": "/todo-firebase/static/css/main.270bf434.css.map",
+    "main.be1b5a63.js.map": "/todo-firebase/static/js/main.be1b5a63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.270bf434.css",
+    "static/js/main.be1b5a63.js"
+  ]
+}
